@@ -3,7 +3,7 @@
 **Capstone Project for the Student Development Initiative (Hacktiv8 x IBM)**
 *A proof-of-concept leveraging NLP to transform disaster response through real-time social media analysis.*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/Thyco5/AI-Disaster-Response-Classifier/blob/main/Disaster_Tweet_Analysis.ipynb](https://colab.research.google.com/drive/1eXYfCWhLX8S-oHhJpsMSnYzQMfbxUc5i?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eXYfCWhLX8S-oHhJpsMSnYzQMfbxUc5i?usp=sharing)
 
 ---
 
