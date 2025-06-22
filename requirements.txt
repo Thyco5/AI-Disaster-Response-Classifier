@@ -1,0 +1,6 @@
+pandas
+langchain-community
+replicate
+tqdm
+matplotlib
+seaborn
